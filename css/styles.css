@@ -1,3 +1,7 @@
+html, body {
+  scroll-behavior: smooth; 
+}
+
 .nav {
 	position: absolute;
 	top: 15px;
